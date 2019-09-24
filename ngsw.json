@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1569330942232,
+  "index": "/curriculo/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/curriculo/favicon.ico",
+        "/curriculo/index.html",
+        "/curriculo/main-es2015.990d6754c8cc92e41013.js",
+        "/curriculo/main-es5.990d6754c8cc92e41013.js",
+        "/curriculo/manifest.webmanifest",
+        "/curriculo/polyfills-es2015.0fe6949bc5ff4b784062.js",
+        "/curriculo/polyfills-es5.a83ac866abc867bfd530.js",
+        "/curriculo/runtime-es2015.85f895af57b038f1e5b4.js",
+        "/curriculo/runtime-es5.85f895af57b038f1e5b4.js",
+        "/curriculo/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/curriculo/assets/icons/icon-128x128.png",
+        "/curriculo/assets/icons/icon-144x144.png",
+        "/curriculo/assets/icons/icon-152x152.png",
+        "/curriculo/assets/icons/icon-192x192.png",
+        "/curriculo/assets/icons/icon-384x384.png",
+        "/curriculo/assets/icons/icon-512x512.png",
+        "/curriculo/assets/icons/icon-72x72.png",
+        "/curriculo/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/curriculo/assets/icons/icon-128x128.png": "349176895232ceac4ec071155766a402a3b66467",
+    "/curriculo/assets/icons/icon-144x144.png": "e213492b2ffa01e9fed44e48a7ae5c634d333886",
+    "/curriculo/assets/icons/icon-152x152.png": "55669748b12e271fbfa3fbb4a2e7baa0ef0ff421",
+    "/curriculo/assets/icons/icon-192x192.png": "dd5fe8375d0cd14d5ffc7b1f35b5f80513b27879",
+    "/curriculo/assets/icons/icon-384x384.png": "d0d7dc30a9c67253aa1662ddcb8496e0d59973ee",
+    "/curriculo/assets/icons/icon-512x512.png": "c43f22b672bfce210f0d581af8655294022cca88",
+    "/curriculo/assets/icons/icon-72x72.png": "5c5eaf45a97a9ec9b9bb48d1b2b4bfecf2af7557",
+    "/curriculo/assets/icons/icon-96x96.png": "2a6f160ce5a97b567400d5bd3faf293c6bfe8168",
+    "/curriculo/favicon.ico": "fc2b08033809d7344cb5e7fec9b8f8efff5ef5c2",
+    "/curriculo/index.html": "1936de8ec993f256695d18727862d2f479dc166b",
+    "/curriculo/main-es2015.990d6754c8cc92e41013.js": "e8f005e02046cc5937990fab06174629eec2f466",
+    "/curriculo/main-es5.990d6754c8cc92e41013.js": "9edf38b75ade5f281568e857dffb42a2b34ad5d8",
+    "/curriculo/manifest.webmanifest": "e41bf8acaf9569359afeab31ff7892185cc863ca",
+    "/curriculo/polyfills-es2015.0fe6949bc5ff4b784062.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
+    "/curriculo/polyfills-es5.a83ac866abc867bfd530.js": "db091f7ef692a1d3add240459a2ea20c81cd6f19",
+    "/curriculo/runtime-es2015.85f895af57b038f1e5b4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/curriculo/runtime-es5.85f895af57b038f1e5b4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/curriculo/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
